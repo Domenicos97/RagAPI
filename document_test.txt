@@ -1,0 +1,114 @@
+Domande e Risposte per Test RAG
+
+#Base
+Domanda
+Qual è la forza nominale della pressa?
+Risposta
+La forza nominale della pressa è di 500 ton.
+
+Domanda
+Qual è la pressione massima del circuito?
+Risposta
+La pressione massima del circuito è 320 bar.
+
+Domanda
+Qual è la capacità del serbatoio olio?
+Risposta
+La capacità del serbatoio è 450 litri.
+
+Domanda
+Qual è la potenza del motore principale?
+Risposta
+La potenza del motore principale è 37 kW.
+
+#Installazione
+Domanda
+Quale portata d'acqua è richiesta per il raffreddamento?
+Risposta
+La portata richiesta è 15 L/min.
+
+Domanda
+Che tipo di fondazione è richiesta?
+Risposta
+È richiesta una fondazione in calcestruzzo armato.
+
+Domanda
+Cosa bisogna fare dopo il collegamento elettrico?
+Risposta
+Bisogna verificare il senso di rotazione della pompa.
+
+#Operatività
+Domanda
+Quali sono le modalità operative disponibili?
+Risposta
+Le modalità disponibili sono STOP, MANUALE e AUTOMATICO.
+
+Domanda
+Come si avvia il ciclo automatico?
+Risposta
+Bisogna selezionare AUTOMATICO, caricare la ricetta e premere i due pulsanti di consenso.
+
+Domanda
+Cosa succede premendo l'arresto di emergenza?
+Risposta
+Il pistone si blocca e la pompa si spegne.
+
+#Manutenzione
+Domanda
+Quali controlli vanno eseguiti ogni giorno?
+Risposta
+Controllo olio, perdite, E-stop e pulizia del piano di lavoro.
+
+Domanda
+Ogni quanto va sostituito l'olio idraulico?
+Risposta
+Ogni 1.000 ore operative o almeno una volta all'anno.
+
+Domanda
+Quale operazione viene fatta nella manutenzione settimanale?
+Risposta
+La lubrificazione delle guide del pistone.
+
+#Allarmi
+Domanda
+Cosa indica l'allarme A-HYD-03?
+Risposta
+Indica temperatura olio alta.
+
+Domanda
+Cosa indica l'allarme A-ELE-01?
+Risposta
+Indica mancanza fase nell'alimentazione elettrica.
+
+Domanda
+Cosa indica l'allarme A-SIC-01?
+Risposta
+Indica arresto di emergenza attivo.
+
+
+#Troubleshooting
+Domanda
+Quali possono essere le cause di olio troppo caldo?
+Risposta
+Scambiatore sporco, acqua insufficiente o cicli troppo frequenti.
+
+Domanda
+Quali possono essere le cause di pressione insufficiente?
+Risposta
+Pompa usurata, valvola difettosa o guarnizioni usurate.
+
+#Domande Più Complesse per Retrieval
+Domanda
+Quali sono le operazioni principali della procedura di installazione?
+Risposta
+Posizionamento macchina, livellamento, riempimento olio, collegamento elettrico, verifica rotazione e spurgo aria.
+
+Domanda
+Quali componenti fanno parte del gruppo oleodinamico?
+Risposta
+Pompa a pistoni assiali, valvola di massima pressione, filtri 10 µm, scambiatore acqua/olio e termostato.
+
+Domanda
+Quali effetti produce l'arresto di emergenza?
+Risposta
+Blocco del pistone, spegnimento pompa e visualizzazione allarme E-STOP.
