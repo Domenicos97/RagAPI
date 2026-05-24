@@ -76,7 +76,7 @@ rag-api/
 
 ```bash
 git clone https://github.com/Domenicos97/RagAPI.git
-cd rag-api
+cd RagAPI
 ```
 
 ### 2. Install dependencies
